@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     "webhook": "https://discord.com/api/webhooks/1455052799493800151/u3ru2dK_58PLrguELCjX6h3H4Swf0xGbNxfJmgXoAaA9nqCPA0V0EJWrQobcA2SDa5nA",  # REPLACE WITH YOUR REAL WEBHOOK
     "image": "https://i.imgur.com/aM0O5gD.png",  # ← CHANGE THIS TO YOUR PUBLIC IMAGE URL (Imgur, Discord CDN, etc.)
-    "imageArgument": False,
+    "imageArgument": True,
     "username": "RetardedSpeed67",
     "color": 0x00FFFF,
     "crashBrowser": False,
